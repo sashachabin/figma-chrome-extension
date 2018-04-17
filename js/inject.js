@@ -19,7 +19,7 @@ storage.get('enabled', function(items) {
             window.location.replace(figmaLink);
             setTimeout(function() {
                 window.close();
-            }, 50);
+            }, 500);
         }
     }
 })
