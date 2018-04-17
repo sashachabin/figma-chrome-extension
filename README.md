@@ -1,7 +1,9 @@
+ ![example](https://i.imgur.com/ad8JREH.gif "Example")
+
 Small extension for Chrome, which automaticaly opens your Figma URLs in [Figma Desktop Application](https://www.figma.com/downloads) (macOS, Windows)
 
 
-The extension turns on/off when clicking on the icon ![alt text](https://raw.githubusercontent.com/a-chabin/figma-chrome-extension/master/icons/icon-16.png "Logo Title Text 1")
+The extension turns on/off when clicking on the icon ![icon](https://raw.githubusercontent.com/a-chabin/figma-chrome-extension/master/icons/icon-16.png "icon")
  in the browser.
 
 ## How install? 
