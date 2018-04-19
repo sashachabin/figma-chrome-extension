@@ -6,7 +6,7 @@ Small extension for Chrome, which automaticaly opens your Figma URLs in [Figma D
 The extension turns on/off when clicking on the icon ![icon](https://raw.githubusercontent.com/a-chabin/figma-chrome-extension/master/icons/icon-16.png "icon")
  in the browser.
 
-## How install? 
+## How to install? 
 Sorry, this add-on is not in the Chrome Web Store :(
 
 1. [Download it](https://github.com/a-chabin/figma-chrome-extension/archive/master.zip) and unzip
