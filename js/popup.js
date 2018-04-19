@@ -10,6 +10,5 @@ storage.get('enabled', function(items) {
 
 function updateExtensionStatus(status) {
     chrome.extension.sendMessage(status);
-    chrome.tabs.reload();
     window.close();
 }
