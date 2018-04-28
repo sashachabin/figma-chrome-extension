@@ -7,13 +7,10 @@ The extension turns on/off when clicking on the icon ![icon](https://raw.githubu
  in the browser.
 
 ## How to install? 
-Sorry, this add-on is not in the Chrome Web Store :(
 
-1. [Download it](https://github.com/a-chabin/figma-chrome-extension/archive/master.zip) and unzip
-2. Open _chrome://extensions_ and activate "Developer mode"
-3. Drag and drop the extension folder to the extension tab
-
-
+1. Download Desktop Figma Application
+2. [Download extension](https://chrome.google.com/webstore/detail/lalnggagcnbcbhdahckdfmpcbagooiea/publish-accepted
+). Open Figma /file URL and choose "Always open these types of links in the associated app"
 
 ## How it works? 
 
