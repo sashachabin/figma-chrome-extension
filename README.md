@@ -6,14 +6,11 @@ Small extension for Chrome, which automaticaly opens your Figma URLs in [Figma D
 The extension turns on/off when clicking on the icon ![icon](https://raw.githubusercontent.com/a-chabin/figma-chrome-extension/master/icons/icon-16.png "icon")
  in the browser.
 
-## How to install? 
-Sorry, this add-on is not in the Chrome Web Store :(
+## How to use? 
 
-1. [Download it](https://github.com/a-chabin/figma-chrome-extension/archive/master.zip) and unzip
-2. Open _chrome://extensions_ and activate "Developer mode"
-3. Drag and drop the extension folder to the extension tab
-
-
+1. Download Desktop Figma Application
+2. [Install Extension](https://chrome.google.com/webstore/detail/figma-open-links-in-app/lalnggagcnbcbhdahckdfmpcbagooiea
+). Open Figma /file URL and choose "Always open these types of links in the associated app"
 
 ## How it works? 
 
